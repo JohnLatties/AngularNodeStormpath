@@ -1,3 +1,3 @@
 'use strict';
 
-angular.module('angularNodeStormpathApp.util', []);
+angular.module('dashboardApp.util', []);

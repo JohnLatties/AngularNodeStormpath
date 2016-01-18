@@ -25,7 +25,7 @@ class MainController {
   }
 }
 
-angular.module('angularNodeStormpathApp')
+angular.module('dashboardApp')
   .controller('MainController', MainController);
 
 })();

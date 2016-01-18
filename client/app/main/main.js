@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('angularNodeStormpathApp')
+angular.module('dashboardApp')
   .config(function($stateProvider) {
     $stateProvider
       .state('main', {

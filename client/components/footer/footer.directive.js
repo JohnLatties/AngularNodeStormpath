@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('angularNodeStormpathApp')
+angular.module('dashboardApp')
   .directive('footer', function () {
     return {
       templateUrl: 'components/footer/footer.html',

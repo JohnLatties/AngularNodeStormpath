@@ -302,7 +302,7 @@ module.exports = function (grunt) {
     // `server/config/environment/shared.js`
     ngconstant: {
       options: {
-        name: 'angularNodeStormpathApp.constants',
+        name: 'dashboardApp.constants',
         dest: '<%= yeoman.client %>/app/app.constant.js',
         deps: [],
         wrap: true,
@@ -321,7 +321,7 @@ module.exports = function (grunt) {
     ngtemplates: {
       options: {
         // This should be the name of your apps angular module
-        module: 'angularNodeStormpathApp',
+        module: 'dashboardApp',
         htmlmin: {
           collapseBooleanAttributes: true,
           collapseWhitespace: true,

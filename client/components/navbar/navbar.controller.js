@@ -14,5 +14,5 @@ class NavbarController {
     }
 }
 
-angular.module('angularNodeStormpathApp')
+angular.module('dashboardApp')
   .controller('NavbarController', NavbarController);

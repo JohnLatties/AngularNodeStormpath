@@ -3,7 +3,7 @@
 describe('Controller: MainController', function() {
 
   // load the controller's module
-  beforeEach(module('angularNodeStormpathApp'));
+  beforeEach(module('dashboardApp'));
   beforeEach(module('stateMock'));
 
   var scope;

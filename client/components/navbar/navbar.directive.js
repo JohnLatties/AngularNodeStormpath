@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('angularNodeStormpathApp')
+angular.module('dashboardApp')
   .directive('navbar', () => ({
     templateUrl: 'components/navbar/navbar.html',
     restrict: 'E',

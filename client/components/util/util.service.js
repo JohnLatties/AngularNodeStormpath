@@ -59,7 +59,7 @@ function UtilService($window) {
   return Util;
 }
 
-angular.module('angularNodeStormpathApp.util')
+angular.module('dashboardApp.util')
   .factory('Util', UtilService);
 
 })();
